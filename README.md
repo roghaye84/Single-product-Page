@@ -8,9 +8,12 @@ This is a single-page product website designed to showcase a product with a mode
 👉 [View Live Demo](https://roghaye84.github.io/Single-product-Page/)
 
 ---
+
 ## 🖼️ Preview
+![Portfolio Preview](https://github.com/roghaye84/Single-product-Page/blob/main/asssest/Screenshot_1-1-2026_143443_roghaye84.github.io.jpeg)
 
 ---
+
 ## ✨ Features
 
 ⚡ Fully responsive design for desktop, tablet, and mobile
